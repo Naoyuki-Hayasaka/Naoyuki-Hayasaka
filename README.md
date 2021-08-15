@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Naoyuki-Hayasaka/Naoyuki-Hayasaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+import React, { useState } from "react";
 
-Here are some ideas to get you started:
+export default function Naoyuki() {
+  const [location, setLocation] = useState("Tokyo");
+  const [job, setJob] = useState("Software Engineer");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return (
+    <div className="profile">
+      <p>
+        Hello, there! I am a {job} based in {location}.
+      </p>
+    </div>
+  );
+}
+
+```
