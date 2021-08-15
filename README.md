@@ -32,7 +32,7 @@ export default function Profile() {
 
 <div style="display:flex; justify-content:center; align-items:center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact&hide=issues,stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=cobalt&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=cobalt" />
 <div>
 
 
