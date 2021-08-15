@@ -31,4 +31,5 @@ export default function Profile() {
 </a>
 
 
+
 ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
