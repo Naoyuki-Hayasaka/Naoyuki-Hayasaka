@@ -5,13 +5,11 @@ import React, { useState } from "react";
 
 export default function Profile() {
   const [name, setName] = useState("Naoyuki Hayasaka");
-  const [location, setLocation] = useState("Tokyo");
-  const [job, setJob] = useState("Software Engineer");
 
   return (
     <div className="profile">
       <p>
-        Hello! I'm { name } and I'm a { job } based in { location }!
+        Hello! I'm { name }!
       </p>
     </div>
   );
