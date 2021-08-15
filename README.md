@@ -23,16 +23,17 @@ export default function Profile() {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  -->
-<div style="display:flex; justify-content:center; align-items:start">
+ 
+<!-- <div style="display:flex; justify-content:center; align-items:start">
   <img src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight" />
-<div>
+<div> -->
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight" />
 </a>
 
 ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
