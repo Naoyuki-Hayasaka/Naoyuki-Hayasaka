@@ -30,6 +30,10 @@ export default function Profile() {
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
+<div style="display:flex; justify-content:center; align-items:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact&hide=issues,stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=cobalt&layout=compact" />
+<div>
 
 
 ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
