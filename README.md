@@ -19,11 +19,11 @@ export default function Profile() {
 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display:flex; justify-content:center; align-items:center">
+ -->
+<div style="display:flex; justify-content:center; align-items:top">
   <img src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight" />
 <div>
