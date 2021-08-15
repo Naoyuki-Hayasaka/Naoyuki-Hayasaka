@@ -33,4 +33,4 @@ export default function Profile() {
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight" />
 </a>
 
-![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg) -->
