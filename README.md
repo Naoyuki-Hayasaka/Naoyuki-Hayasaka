@@ -3,14 +3,15 @@
 ```javascript
 import React, { useState } from "react";
 
-export default function Naoyuki() {
+export default function Profile() {
+  const [name, setName] = useState("Naoyuki Hayasaka");
   const [location, setLocation] = useState("Tokyo");
   const [job, setJob] = useState("Software Engineer");
 
   return (
     <div className="profile">
       <p>
-        Hello, there! I am a {job} based in {location}.
+        Hello! I'm { name } and I'm a { job } based in { location }!
       </p>
     </div>
   );
@@ -18,9 +19,9 @@ export default function Naoyuki() {
 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=stars&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=stars&theme=tokyonight&count_private=true&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
