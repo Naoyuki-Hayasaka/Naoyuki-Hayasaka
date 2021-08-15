@@ -20,7 +20,7 @@ export default function Naoyuki() {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=stars&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&hide=javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
