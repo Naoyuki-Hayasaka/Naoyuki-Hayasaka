@@ -7,9 +7,7 @@ export default function Profile() {
   const [name, setName] = useState("Naoyuki Hayasaka");
   return (
     <div className="profile">
-      <p>
-        Hello! I'm { name }!
-      </p>
+      Hello! I'm { name }!
     </div>
   );
 }
