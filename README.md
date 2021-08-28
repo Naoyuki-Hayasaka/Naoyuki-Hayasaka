@@ -25,8 +25,8 @@ export default function Profile() {
 <div> -->
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=tokyonight&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=algolia&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=algolia&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&theme=algolia" />
 </a>
