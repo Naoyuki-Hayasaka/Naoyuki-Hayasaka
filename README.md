@@ -1,18 +1,15 @@
 ### Hi there 👋
+![](https://img.shields.io/badge/I%20am-30336b?style=for-the-badge)
+![](https://img.shields.io/badge/Beginner%20FrontEnd%20Engineer-eb4d4b?style=for-the-badge)
+![](https://img.shields.io/badge/Working%20in%20Tokyo-6ab04c?style=for-the-badge)
 
-```javascript
-import { useState } from "react";
-
-export default function Profile() {
-  const [name, setName] = useState("Naoyuki Hayasaka");
-  return (
-    <div className="profile">
-      Hello! I'm { name }!
-    </div>
-  );
-}
-
-```
+### INTERESTED IN
+<!-- ![](https://img.shields.io/badge/CSS-1B9CFC?style=for-the-badge&logo=css3&logoColor=white) -->
+![](https://img.shields.io/badge/Javascript-f9ca24?style=for-the-badge&logo=Javascript&logoColor=black)
+![](https://img.shields.io/badge/React-22a6b3?style=for-the-badge&logo=React&logoColor=white)
+<!-- ![](https://img.shields.io/badge/React_Native-22a6b3?style=for-the-badge&logo=React&logoColor=white) -->
+![](https://img.shields.io/badge/Typescript-1e3799?style=for-the-badge&logo=Typescript&logoColor=white)
+![](https://img.shields.io/badge/Redux_Toolkit-9980FA?style=for-the-badge&logo=Redux&logoColor=white)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&hide=issues,stars&theme=algolia&count_private=true&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
