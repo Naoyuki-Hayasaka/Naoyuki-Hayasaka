@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://img.shields.io/badge/I%20am-30336b?style=for-the-badge)
-![](https://img.shields.io/badge/Beginner%20FrontEnd%20Engineer-eb4d4b?style=for-the-badge)
+![](https://img.shields.io/badge/Beginner%20Software%20Engineer-eb4d4b?style=for-the-badge)
 ![](https://img.shields.io/badge/Working%20in%20Tokyo-6ab04c?style=for-the-badge)
 
 ### INTERESTED IN
