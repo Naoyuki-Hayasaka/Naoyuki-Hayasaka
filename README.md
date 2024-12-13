@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Remix-9980FA?style=for-the-badge&logo=Remix&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&theme=algolia&show_icons=true&token=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" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&theme=algolia&show_icons=true&token=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" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&layout=compact&theme=algolia" />
