@@ -10,9 +10,20 @@
 ![](https://img.shields.io/badge/Typescript-1e3799?style=for-the-badge&logo=Typescript&logoColor=white)
 ![](https://img.shields.io/badge/Remix-9980FA?style=for-the-badge&logo=Remix&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&theme=algolia&show_icons=true&token=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" />
-</a>
+<!--
+コメントアウト中
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&layout=compact&theme=algolia" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&theme=algolia&show_icons=true&token=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" />
+</a>
+
+-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoyuki-Hayasaka&theme=react)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&layout=compact&theme=algolia&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&layout=compact&langs_count=6&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
