@@ -11,7 +11,8 @@
 ![](https://img.shields.io/badge/Remix-9980FA?style=for-the-badge&logo=Remix&logoColor=white)
 
 <!--
-コメントアウト中
+マークダウンのコメントアウトは以下の通り
+https://qiita.com/yu0819ki/items/e1e1d20cedc68706ba23
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&layout=compact&theme=algolia" />
 </a>
