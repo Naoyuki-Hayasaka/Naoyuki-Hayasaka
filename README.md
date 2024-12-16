@@ -25,6 +25,6 @@ https://qiita.com/yu0819ki/items/e1e1d20cedc68706ba23
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoyuki-Hayasaka&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&layout=compact&theme=algolia&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naoyuki-Hayasaka&count_private=true&theme=algolia&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoyuki-Hayasaka&layout=compact&langs_count=6&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
